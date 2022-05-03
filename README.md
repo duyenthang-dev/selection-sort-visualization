@@ -5,4 +5,5 @@
 ## Ngôn ngữ
 - Java 
 
-## Một vài hình ảnh
+## Kết quả
+<img src="./visualization.gif">
