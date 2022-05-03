@@ -4,6 +4,7 @@
 
 ## Ngôn ngữ
 - Java 
+- IDE: Eclipse
 
 ## Kết quả
 <img src="./visualization.gif">
